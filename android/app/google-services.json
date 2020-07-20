@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775034624372",
+    "firebase_url": "https://admob-tut.firebaseio.com",
+    "project_id": "admob-tut",
+    "storage_bucket": "admob-tut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775034624372:android:01d5a1edb6c47bc497f421",
+        "android_client_info": {
+          "package_name": "com.example.admob_tut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775034624372-j104la5vktdm499cslvgkf6j5hn23cpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOT-0uC0s02Zqs3BkxNGBqzMSr_zIfEnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775034624372-j104la5vktdm499cslvgkf6j5hn23cpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
